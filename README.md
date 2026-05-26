@@ -7,20 +7,4 @@ In addition to automation, the project integrates safety and security functional
 
 The project combines automation, real-time monitoring, and security into a single smart solution. The use of Arduino Uno along with wireless communication modules and sensor-based detection demonstrates the practical implementation of Internet of Things (IoT) concepts for creating a connected and intelligent home environment.
 
-Key Features
-Remote control of home appliances such as lights and fans
-Bluetooth and Wi-Fi based communication
-Mobile application for monitoring and device control
-Real-time gas leak detection
-Intruder detection using proximity sensors
-Instant mobile notifications and alerts
-Arduino Uno based implementation
-Smart and user-friendly home security solution
-Technologies and Components Used
-Arduino Uno
-Bluetooth Module
-Wi-Fi Module
-Gas Sensor
-Proximity Sensor
-Smartphone Application
-IoT Communication System
+The system provides intelligent home automation and security features by enabling users to remotely control household devices such as lights and fans through a smartphone application using Bluetooth and Wi-Fi communication. It continuously monitors the environment using integrated sensors, where the gas sensor detects hazardous gas leaks and the proximity sensor identifies potential intrusions or unauthorized movement. Upon detecting any unusual activity, the system instantly sends real-time notifications and alerts to the mobile application, ensuring enhanced safety, convenience, and effective monitoring within a smart home environment.
